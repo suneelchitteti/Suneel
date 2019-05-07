@@ -1,0 +1,12 @@
+a=1000
+print(a)
+print(type(a))
+print(id(a))
+b=100
+print(b)
+print(type(b))
+print(id(b))
+c=10
+print(c)
+print(type(c))
+print(id(c))
